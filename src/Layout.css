@@ -1,0 +1,20 @@
+.layout-container {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+  }
+  
+  .resizable-component {
+    border: 1px solid #ccc;
+    overflow: hidden;
+  }
+  
+  .vertical-divider {
+    width: 10px;
+  }
+  
+  .component-content {
+    padding: 20px;
+  }
+
+  
